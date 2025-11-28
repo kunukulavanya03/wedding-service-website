@@ -1,0 +1,29 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.bg-primary {
+  background-color: rgba(37, 99, 235, 1);
+}
+
+.bg-secondary {
+  background-color: rgba(16, 185, 129, 1);
+}
+
+.bg-dark {
+  background-color: rgba(17, 24, 39, 1);
+}
+
+.text-primary {
+  color: rgba(37, 99, 235, 1);
+}
+
+.text-secondary {
+  color: rgba(16, 185, 129, 1);
+}
+
+.text-dark {
+  color: rgba(17, 24, 39, 1);
+}
